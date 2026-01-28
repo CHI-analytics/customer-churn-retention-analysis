@@ -8,6 +8,14 @@ The analysis was performed using **Excel for data preparation and exploratory an
 
 ---
 
+## 📊 Power BI Dashboard
+
+Below is the interactive Power BI dashboard built to analyze customer churn patterns and key retention drivers.
+
+![Power BI Churn Dashboard](dashboard/telco_churn_dashboard.png)
+
+---
+
 ## 🎯 Business Objectives
 - Measure overall churn rate
 - Identify customer segments with the highest churn
